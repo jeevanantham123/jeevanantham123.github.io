@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "personalPortfolio",
-  "homepage": "https://jeevanantham123.github.io/",
+  "homepage": "https://jeevanantham123.github.io",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
